@@ -1,6 +1,6 @@
 {
   "name": "react-native-qiniu",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Qiniu React Native SDK ,A pure javascript implements.",
   "main": "index.js",
   "scripts": {
